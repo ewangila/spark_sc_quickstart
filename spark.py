@@ -33,7 +33,5 @@ print(f"Application ID: {sc.applicationId}")
 print("\nUI & Status")
 print(f"UI Web URL: {sc.uiWebUrl}")
 
-
-
 # Clean up
 sc.stop()
