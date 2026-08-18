@@ -49,6 +49,5 @@ Application ID: ...
 ```
 ## License
 MIT License – see [LICENCE](./LICENCE)
-
 UI & Status
 UI Web URL: ...
