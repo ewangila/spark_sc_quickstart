@@ -48,7 +48,7 @@ Application ID: ...
 └── README.md
 ```
 ## License
-MIT License – see LICENCE
+MIT License – see [LICENCE](./LICENCE)
 
 UI & Status
 UI Web URL: ...
